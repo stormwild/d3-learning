@@ -1,0 +1,22 @@
+body {
+  background-color: #efefef;
+}
+
+main {
+  background-color: #fff;
+  padding: 1rem 0;
+}
+
+.card-block { 
+    padding: 1.25rem; 
+}
+
+.d3-ring {
+  border: 1px solid #ccc;
+  height: 400px;
+}
+
+.footer {
+  background-color: #efefef;
+  padding: .5rem 1rem;
+}
